@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+api/artifacts/*.h5
+api/artifacts/*.keras
+node_modules/
+.next/
+.env.local
+.DS_Store
